@@ -1,0 +1,18 @@
+2022-08-21 04:13:00.665452
+Starting the search
+
+is Palindrome 398989893
+is Palindrome 365949563
+is Palindrome 559555955
+is Palindrome 131838131
+is Palindrome 166717661
+is Palindrome 769646967
+is Palindrome 972464279
+is Palindrome 314151413
+is Palindrome 992868299
+is Palindrome 100353001
+is Palindrome 927202729
+is Palindrome 318272813
+318272813 is prime!!!!!!!!!
+Finished
+2022-08-21 04:13:23.095344
