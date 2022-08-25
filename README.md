@@ -7,7 +7,7 @@ Desafio proposto em 30 de Junho de 2022
 
 Foi utilizado o Spyder do ambiente Anaconda para criar um programa em Python para resolução do desafio.
 
-Como o cálculo de grande número de decimais de PI é algo muito presenta na internet, a solução envolvia o uso de um arquivo disponibilizado, sem a necessidade de cálculo das decimais de PI. Com isso, a solução foi a extração de cada pedaço da sequência de dígitos e efetuar a avaliação.
+Como o cálculo de grande número de decimais de PI é algo muito presenta na internet, a solução envolvia o uso de um arquivo disponibilizado  com 1 milhão de decimais (https://www.angio.net/pi/digits/pi1000000.txt), sem a necessidade de cálculo das decimais de PI. Com isso, a solução foi a extração de cada pedaço da sequência de dígitos e efetuar a avaliação.
 
 A execução encontrou palíndromos de 9 dígitos com possibilidade de serem primos e finalmente encontrou o palíndrimo 318272813, que é primo.
 
